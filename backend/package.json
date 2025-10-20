@@ -1,0 +1,6 @@
+// package.json stub
+{
+  "name": "chess-backend",
+  "version": "1.0.0",
+  "scripts": {"start": "node server.js"}
+}
